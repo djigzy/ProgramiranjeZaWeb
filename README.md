@@ -6,7 +6,7 @@ Zadatak je izrada modela i predložaka (pogleda) za web aplikaciju ili uslugu ov
 ### Projekt treba sadržavati:
 
 - Github repozitorij za projekt
-- Github repozitorij treba sadržavati i README file u kojem je naveden zadatak i imena studenata.
+  - Github repozitorij treba sadržavati i README file u kojem je naveden zadatak i imena studenata.
 - Django projekt i aplikaciju
 - Model koji sadrži barem 3 entiteta (unutar modela voditi računa različitim tipovima podataka)
 - Barem jednu one to one, one to many i many to many relaciju.
